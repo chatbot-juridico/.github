@@ -1,12 +1,25 @@
-## Hi there 👋
+# ⚖️ AI.dvogado
 
-<!--
+Inteligência Artificial aplicada ao Direito Trabalhista Este ecossistema de software é o resultado de um Trabalho de Conclusão de Curso (TCC) em Engenharia de Software. O objetivo é unir Processamento de Linguagem Natural (PLN) à legislação brasileira para facilitar a triagem e consulta jurídica.
 
-**Here are some ideas to get you started:**
+## 🚀 O Projeto
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O AI.dvogado utiliza arquitetura de ponta para interpretar dúvidas sobre a CLT, oferecendo respostas fundamentadas e auxílio inicial a advogados e cidadãos.
+
+## 🛠️ Stack Técnica
+
+**IA**: Python, LangChain e RAG (Retrieval-Augmented Generation).
+
+**Backend**: FastAPI / Node.js.
+
+**Infra**: Docker e Vetores de Busca.
+
+## 🎓 Escopo Acadêmico
+
+Modelagem de arquitetura para LLMs.
+
+Curadoria de bases de dados jurídicas.
+
+Engenharia de prompts para conformidade legal.
+
+> Atenção: Este é um projeto acadêmico e não substitui o aconselhamento de um advogado devidamente registrado na OAB.
